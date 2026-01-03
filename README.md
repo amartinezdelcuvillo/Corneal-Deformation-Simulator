@@ -34,11 +34,7 @@ Additionally, the project supports **MQTT** communication to facilitate integrat
 
 ### ANSYS simulation (physics / deformation)
 
-
-
-https://github.com/user-attachments/assets/c40bed8a-e53e-4e1b-8084-7e38c63353b2
-
-
+https://github.com/user-attachments/assets/f96d1e84-f960-4ef7-a2b5-72cdb79860ee
 
 
 ### Unity + haptics simulation (real-time palpation)
