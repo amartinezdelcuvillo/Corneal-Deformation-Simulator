@@ -79,7 +79,15 @@ while the correct calibrated value is implemented in the full project.
 
 ## Installation & Usage
 
-1. Clone this repository:
+1. **Clone this repository:**
    ```bash
-   git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPO>.git
+   git clone https://github.com/amartinezdelcuvillo/Corneal-Deformation-Simulator.git
+   
+2. **Open the project in Unity**
+   
+3. Connect the **Touch X haptic device** and ensure the device's software and drivers are correctly installed.
+   
+4. **Run the main scene in Unity** and use the device to palpate the cornea.
+
+5. ***(Optional)*** To modify or replicate the cornea's behavior, you can open the ANSYS file included in the **/Ansys Cornea Simulation** folder and perform additional simulations.
 
